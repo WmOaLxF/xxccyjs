@@ -1,0 +1,1 @@
+static for flask
