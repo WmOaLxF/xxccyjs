@@ -17,5 +17,7 @@ python backend_get.py
 接下来打开`首页.html`文件，在检索框中输入关键词，即可开始检索
 
 数据见：
-链接: https://pan.baidu.com/s/1URxc_eZcsxGk8HEWP4f2cA  密码: 9o1f
-下载后直接放入该目录
+
+链接: https://pan.baidu.com/s/1BDjLaba0AP0hyltQYZRN4g  密码: d1mw
+
+包含data.h5, stopwords, word2vec, cgi-bin, 文本数据。下载后直接放入该目录
